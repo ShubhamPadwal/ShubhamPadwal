@@ -43,8 +43,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShubhamPadwal/ShubhamPadwal/output/snake.svg" alt="Snake animation" />
-
 ###
