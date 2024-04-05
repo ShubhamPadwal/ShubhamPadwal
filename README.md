@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Shubham Padwal and I'm a  final year Computer Engineering student from Savitribai Phule Pune University. Welcome to my GitHub profile! from ....</h2>
+<h2 align="left">Hi 👋! My name is  Shubham Padwal and I'm a  final year Computer Engineering student from Savitribai Phule Pune University. Welcome to my GitHub profile!....</h2>
 
 ###
 
